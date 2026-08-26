@@ -1,6 +1,6 @@
-há um problema em printf("%c", "\"") que espera uma int mas recebe um char  ajeitando esse erro traria a  resposta
+há um problema em printf("%c", "\"") que espera uma int mas recebe um char, ajeitando esse erro traria a  resposta
 
-    "Primeiro programa"
+"Primeiro programa"
 Pressione qualquer tecla para continuar. . .
 
 
